@@ -2,7 +2,7 @@
 
 I'm a NodeJS/TypeScript developer
 
-I current work at J.P Morgan Chase.
+I currently work at J.P Morgan Chase.
 
 My main projects at the moment are
   - [Censor Bot](https://censor.bot) Discord Bot (63k)
