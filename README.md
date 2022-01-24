@@ -5,9 +5,9 @@ I'm a NodeJS/TypeScript developer
 I currently work at J.P Morgan Chase.
 
 My main projects at the moment are
-  - [Censor Bot](https://censor.bot) Discord Bot (63k)
-  - [Easy Applications](https://easyapps.bot) Discord Bot (40k)
-  - [YouTube Bot](https://top.gg/bot/youtube) Discord Bot (127k)
+  - [Censor Bot](https://censor.bot) Discord Bot (66k)
+  - [Easy Applications](https://easyapps.bot) Discord Bot (42k)
+  - [YouTube Bot](https://top.gg/bot/youtube) Discord Bot (230k)
   - [discord-rose](https://github.com/discord-rose) Discord Library
   - [top-gg/sdk](https://npmjs.com/@top-gg/sdk) Official Top.gg Node SDK
 
