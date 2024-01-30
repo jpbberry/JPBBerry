@@ -9,7 +9,7 @@ Check out my portfolio website @ https://jpbberry.dev
 A list of my bots and what they do @ https://jpbbots.org
 
 My main projects at the moment are
-  - [Censor Bot](https://censor.bot) Discord Bot (77k)
+  - [Censor Bot](https://censor.bot) Discord Bot (95k)
   - [Easy Applications](https://easyapps.bot) Discord Bot (47k)
   - [YouTube Bot](https://top.gg/bot/youtube) Discord Bot (270k)
   - [discord-rose](https://github.com/discord-rose) Discord Library
